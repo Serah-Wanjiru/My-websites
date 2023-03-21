@@ -20,6 +20,7 @@ body{
 
 
 .main ul li{
+    
     display: inline;
     margin: 1rem;
 }
@@ -28,6 +29,10 @@ body{
 .serah{
     width: 50%;
     
+}
+.serah a{
+
+    text-decoration: solid;
 }
 .m5{
     width: 50%;
@@ -287,18 +292,16 @@ z{
     padding: 25px;
 }
 .LIZ{
-    padding: 22px 12px;
+    padding: 0px 2px;
     background-color: white;
     border-radius: 1em;
 
 
 }
-.LIZ{
 
-}
 .b1{
-    width: 40%;
-    height: 50%;
+    width: 10%;
+    height: 20%;
 }
 .shoe6{
     padding: 22px 12px;
@@ -323,7 +326,7 @@ z{
 .f1{
     /* width: 90%; */
  
-    height: 50%;
+    height: 30%;
 }
 .shoe5{
     padding: 22px 12px;
@@ -332,10 +335,10 @@ z{
 
 
 }
-.shoe5{
+hoe5{
     margin-left: 2%;
     
-    width: 300px;
+    width: 200px;
 }
 .g1{
     display: flex;
@@ -344,12 +347,12 @@ z{
     
 }
 .g1{
-    gap: 40px;
+    gap: 20px;
 }
 .g1 img{
-    width: 250px;
-    height: 200px;
-    margin: 40px;
+    width: 180px;
+    height: 180px;
+    margin: 2px;
 }
 .section5{
   
@@ -372,17 +375,7 @@ z{
 .O{
     display: flex;
     gap: 60px;
-    list-style-type: none;
-}
-
-.twoshoes{
-
-}
-.section6{
-   
-}
-
-footer{
+    list-style-type: non
  
 }
 .mens{
@@ -429,17 +422,384 @@ li{
     line-height: 50px;
     list-style: none;
 }
-.a1{
-    
+body{
+    background-color: rgb(194, 187, 187);
+    overflow-x: hidden;
+    width: 100%;
+}
+.mummy{
+    margin-top: 10px;
+    float: left;
+    height: 600px;
+    width: 250px;
+    background-color: rgb(241,40,90);
+    border-radius: 1550px/ 0px 1250px 4550px 1500px;
 }
 
+.rancha{
+    width: 50%;
+}
+ul a{
+    text-decoration: none;
+    padding: 1px;
+    color: black;
+}
+.mary{
+    width: 50%;
+}
+ .ann ul li{ 
+    
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+    
+}
+.ann{
+    display: flex;
+    border: 100%;
+}
+.nav ul li{
+    display: inline;
+    margin: 1rem;
+}
+.serah1{
+    display: flex;
+}
+.shoe2{
+  width: 8%;
+  height: 8%;
+}
+.shoe1{
+    width: 10%;
+    height: 10%;
+}
+.shoe3{
+    width: 10%;
+    height: 10%;
+  
+}
+.serah3{
+    position: relative;
+    top: -200px;
+  
+}
+.ani{
+    background-image: linear-gradient(white);
+}
+.ani{
+    width: 80%;
+    height: 80%;
+}
+.hey{
+    display: flex; 
+    
+ }
+ .hey img{
+     width: 150px;
+     height: 150px;
+ }
+ .R{
+    margin-left: 4%;
+   
+ } 
+ .R{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+ } 
+ .R{
+    border: solid;
+ }  
+.S{
+    margin-left: 4%;
+   
+}
+.S{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+
+}
+.S{
+    border: solid;
+}
+.a{
+    margin-left: 4%; 
+   
+  
+}
+.a{
+   padding: 10px 12px;
+   background-color: white;
+   border-radius: 1em;
+
+}
+.a{
+    border:solid ;
+}
+.U{
+    border: solid;
+}
+.Q{
+    width: 1100px;
+    height: 1100px;
+}
+.T{
+    width: 1100px;
+    height: 1100px;
+
+}
+.V{
+    width: 80%;
+    height: 80%;
+}
+.c{
+    height: 20%;
+    width: 20%;
+}
+.U {
+    margin-left: 4%;
+   
+    
+
+}
+.U{
+    padding: 22px 12px;
+    background-color: white;
+    border-radius: 1em;
+}
+.
+.R{
+    border-radius: 2em;
+    
+}
+.serah4{
+   
+  
+    text-align: center;
+}
+    
+
+.very{
+    display: flex;
+    
+border: solid;
+width: 100%;
+height: 200px;
+    background-color: rgb(246,102,102);
+    position: relative;
+    justify-content: space-between;
+    border-radius: 10px;
+  
+}
+.very ul li{
+    list-style-type: none;
+}
+.one{
+    padding: 20px;
+}
+.two{
+    padding: 20px;
+    background-color: #f77071;
+}
+.three{
+    color: #f77071;
+}
+.four{
+    color: #f77071;
 
 
+}
+.one{
+    border-color:#f77071 ;
+}
+.SPAN{
+    border-radius: 50%;
+    border-color:#f77071 ;
+    background-color: #f77071;
+    width: 50%;
+    height: 50%;
+}
+.n1 ul li{
+
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+
+}
+
+.n1{
+    display: flex;
+    border: 100%;
+    
+}
+.n2{
+    width: 50%;
+
+}
+.n3{
+background-image: url(/images/);
+}
+.n4{
+    width: 80%;
+    height: 80%;
+}
+.n5{
+    display: flex;
+}
+.n6{
+    text-align: center;
+}
+.n7{
+    font-size: 150%;
+}
+.n8{
+    display: flex;
+}
+.n9{
+    width: 100%;
+    height: 100%;
+
+}
+.n10{
+    font-size: 150%;
+}
+.n11{
+    display: flex;
+
+}
+.n12{
+
+}
+.n13{
+    width: 80%;
+    height: 80%;
 
 
+}
+.n14{
+    font-size: 150%;
+
+}
+.n15{
+    display: flex;
+    
+border: solid;
+width: 100%;
+height: 200px;
+    background-color: rgb(246,102,102);
+    position: relative;
+    justify-content: space-between;
+    border-radius: 10px;
+  
+
+}
+.n15{
+    list-style-type: none;
+}
+.n16{
+    padding: 20px;
+    background-color: #f77071;
+    position: relative;
+    top: -25px;
+    border-radius: 20px;
+}
+.n17{
+    padding: 20px;
+    background-color: #f77071;
+    position: relative;
+    top: -25px;
+    border-radius: 20px;
+
+}
+.n18{
+    padding: 20px;
+    background-color: #f77071;
+    position: relative;
+    top: -25px;
+    border-radius: 20px;
 
 
+}
+.s1 ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
 
 
+}
+.s1{
+    display: flex;
+    border: 100%;
+
+
+}
+.s2{
+    width: 50%;
+}
+.s3{
+    width: 50%;
+}
+.s4{
+    text-align: center;
+  
+}
+.s5{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.s6{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+
+}
+.s7{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+
+
+}
+.s8{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+
+}
+.s9{
+    border: solid;
+    width: 15%;
+    height: 25%;
+    padding: 35px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.s10{
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 10px;
+    background-color:#f77071 ;
+}
+.s12{
+    color: #f77071;
+}
+.cat{
+    background-image: url(/images/bg_720.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
 
 
